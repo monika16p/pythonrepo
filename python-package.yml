@@ -26,9 +26,7 @@ strategy:
 
      # python.version: '2.7'
 
- #   Python35:
-
-    #  python.version: '3.5'
+ 
 
     Python36:
 
